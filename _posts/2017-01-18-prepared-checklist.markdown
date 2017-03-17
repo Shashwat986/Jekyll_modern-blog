@@ -5,7 +5,7 @@ Conditions which are required by Rules (Right To Education) for a functional SDM
 
 ### Formation Requirements
 
-_**General Body (GB) meeting of parents/guardians**_
+_**General Body (GB) Meeting of parents/guardians**_
 
 All parents/guardians of children studying in the school will constitute the membership of the GB of the SDMC.
 
