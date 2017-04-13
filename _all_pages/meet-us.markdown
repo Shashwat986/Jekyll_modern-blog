@@ -15,7 +15,8 @@ Kriti is an LLM student at Azim Premji University.
 
 <img src='img/authors/nayashree.jpg'>
 
-Nayashree is an LLM student at Azim Premji University. 
+Nayashree is an LLM student at Azim Premji University. What can describe a person more than his/her thoguhts in form of a poem. So, here is one from Nayashree:
+
 
 
 “मेरी अभिलाषा”
